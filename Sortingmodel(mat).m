@@ -1,6 +1,6 @@
 clear all
 %Set random seed.
-rng(71849)
+rng(00001)
 %Set Parameter values:
 %number of agent in the system.
 N=1000;
