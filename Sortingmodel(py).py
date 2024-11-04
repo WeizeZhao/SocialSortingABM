@@ -4,7 +4,7 @@ from scipy.optimize import minimize_scalar
 import matplotlib.pyplot as plt
 
 # Set random seed
-np.random.seed(4151341)
+np.random.seed(00001)
 
 # Set parameter values
 N = 1000 # number of agents in the system, default value is 1000
